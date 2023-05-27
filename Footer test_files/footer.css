@@ -70,7 +70,7 @@ footer{
 
 #page-container {
     position: relative;
-    min-height: 100vh;
+    min-height: 80vh;
   }
   
   #content-wrap {
@@ -78,8 +78,8 @@ footer{
   }
   
   #footer1 {
-    position: auto;
+    position: absolute;
     bottom: 0;
     width: 100%;
-    height: 5rem;            /* Footer height */
+    height: 2.5rem;            /* Footer height */
   }
